@@ -10,11 +10,11 @@
 
 <h3 align="left">About Me</h3>
 
-###
+
 
 <p align="left">I from France🥖<br><br>- 🔭 I’m a student in web development <br>- 📚 I'm currently learning in BTS SIO Option SLAM with many languages for web and application
 
-###
+
 
 <p align="center">⚙️ &nbsp;GitHub Analytics</p>
 <table style="width:100%" align="center">
@@ -23,9 +23,9 @@
   </tr>
 </table>
 
-<h3 align="left">🛠 Language</h3>
+<h3 align="left">👨‍💻Language</h3>
 
-###
+
 
 <div align="left">
 <p align="left"> 
